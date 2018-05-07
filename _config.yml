@@ -6,7 +6,7 @@
 name: Reuben Antz
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web Developer from Nigeria
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/28227508?s=400&u=2c92a4e40c26229dff72db6a4538a4b244d88a92&v=4
@@ -47,7 +47,7 @@ url:https://geekyourselfblog.wordpress.com/
 # (http://antzshrek.github.io/jekyll-now)
 # and NOT your User repository (http://antzshrek.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "antzshrek.github.io/jekyll-now"
+baseurl: "/jekyll-now"
 
 #
 # !! You don't need to change any of the configuration flags below !!
